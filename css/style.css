@@ -1,0 +1,173 @@
+
+:root{
+	--color-dorado: #EDB44D;
+	--color-general: #adb0b8;
+	--color-titulos: #dbdce4;
+	--fondo-negro: #09090d;
+	--fondo-azul: #101117;
+	--fondo-features: #121520;
+	--fondo-footer: #040406;
+	--color-footer: #373946;
+}
+
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #757f7f;
+}
+header{
+	background-color: #fff;
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+#hero {
+	background-color: #09090d;
+	padding: 50px 0;
+}
+
+.section{
+	padding: 60px 0;
+}
+.img-hero{
+	height: 500px;
+	width: 270px;
+	margin: 0 30%;
+}
+.hero-info{
+	padding: 98px 30px;
+}
+
+
+.titulo{
+	margin: 20px 0;
+	color: #dbdce4;
+	font-size: 50px;
+	font-weight: 600px;
+}
+
+
+.subtitulo{
+	color: #fff;
+    font-size: 22px;
+    margin-top: 32px;
+}
+.subtitulo-2{
+	color: #edb44b;
+}
+h1{
+	font-size: 70px;
+	color: #dbdce4;
+}
+
+#hero h2{
+	font-size: 30px;
+	color: #edb44b;
+	font-weight: 200;
+}
+p {
+	margin: 10px 0;
+	color: #abd0b8;
+	font-size: 15px;
+}
+.btn-dorado{
+	padding: 10px 30px;
+	background-color: #383838;
+	border-radius: 50px;
+	color: #dbdce4;
+	font-weight: 600;
+	letter-spacing: 0.5mm;
+	margin: 20px 0;
+}
+
+#features{
+	background-color: #101117;
+}
+ .header{
+ 	text-align: center;
+    padding: 32px 130px;
+    margin-bottom: 44px;
+ }
+
+#additional-features {
+    background-color: #101117;
+    padding: 50px 0;
+}
+
+#additional-features .col-4 {
+    padding: 0 15px;
+}
+
+#additional-features h7 {
+    font-weight: bold;
+    color: #fff;
+}
+
+#additional-features .text-white {
+    color: #fff;
+}
+
+#additional-features .icon {
+    margin-top: 10px;
+}
+
+#subscribe {
+    background-color: #101117;
+    color: #fff;
+    padding: 50px 0;
+}
+
+#subscribe .titulo {
+    font-weight: bold;
+}
+
+#subscribe .subtitulo {
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#subscribe .btn-outline-light {
+    border-color: #fff;
+    color: #fff;
+    margin-right: 10px;
+}
+
+#subscribe .btn-edb44d {
+    background-color: #EDB44D;
+    border-color: #EDB44D;
+}
+
+#subscribe .btn-edb44d:hover {
+    background-color: #d4993c;
+    border-color: #d4993c;
+}
+
+#redes-icons {
+    background-color: #101117;
+    padding: 50px 0;
+}
+
+.icono {
+    font-size: 40px;
+    color: #fff;
+    margin: 0 20px;
+}
+
+
+
+footer{
+	background-color: #040406;
+	padding: 20px 0;
+
+}
+
+.firma{
+	font-size: 15px;
+	color: #373946;
+	text-align: center;
+}
+
+
+
+
+
+
